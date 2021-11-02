@@ -62,8 +62,8 @@ class Blocks {
 
         // Add agents, specifying their start position, and store their goals on
         // the opposite side of the environment.
-        for (int i = 0; i < 5; i++) {
-            for (int j = 0; j < 5; j++) {
+        for (int i = 0; i < 1; i++) {
+            for (int j = 0; j < 1; j++) {
                 Simulator.instance.addAgent(new Vector2D(55.0 + i * 10.0, 55.0 + j * 10.0));
                 goals.add(new Vector2D(-75.0, -75.0));
 

@@ -1,0 +1,115 @@
+{
+  "polygons": [
+    {
+      "id": 0,
+      "points": [
+        {
+          "polyId": 0,
+          "id": 0,
+          "point": {
+            "x": 760,
+            "y": 471
+          },
+          "connectedList": []
+        },
+        {
+          "polyId": 0,
+          "id": 1,
+          "point": {
+            "x": 1106,
+            "y": 462
+          },
+          "connectedList": []
+        },
+        {
+          "polyId": 0,
+          "id": 2,
+          "point": {
+            "x": 1091,
+            "y": 606
+          },
+          "connectedList": []
+        },
+        {
+          "polyId": 0,
+          "id": 3,
+          "point": {
+            "x": 764,
+            "y": 523
+          },
+          "connectedList": []
+        }
+      ],
+      "distance": 0.0,
+      "uuid": 0
+    },
+    {
+      "id": 1,
+      "points": [
+        {
+          "polyId": 1,
+          "id": 0,
+          "point": {
+            "x": 757,
+            "y": 586
+          },
+          "connectedList": []
+        },
+        {
+          "polyId": 1,
+          "id": 1,
+          "point": {
+            "x": 985,
+            "y": 653
+          },
+          "connectedList": []
+        },
+        {
+          "polyId": 1,
+          "id": 2,
+          "point": {
+            "x": 1075,
+            "y": 663
+          },
+          "connectedList": []
+        },
+        {
+          "polyId": 1,
+          "id": 3,
+          "point": {
+            "x": 1069,
+            "y": 817
+          },
+          "connectedList": []
+        },
+        {
+          "polyId": 1,
+          "id": 4,
+          "point": {
+            "x": 1010,
+            "y": 976
+          },
+          "connectedList": []
+        },
+        {
+          "polyId": 1,
+          "id": 5,
+          "point": {
+            "x": 649,
+            "y": 949
+          },
+          "connectedList": []
+        }
+      ],
+      "distance": 0.0,
+      "uuid": 0
+    }
+  ],
+  "connects": [],
+  "graphConnects": [],
+  "settings": {
+    "uuid": 0,
+    "polyId": 0,
+    "conId": 0
+  }
+}
